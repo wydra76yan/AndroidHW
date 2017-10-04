@@ -11,4 +11,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //initial commit
     }
+    //doing conflict with
+    //doing conflict wham
+    //doing conflict wh0m
+    //doing conflict whuuum
+
 }

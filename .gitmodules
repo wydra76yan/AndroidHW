@@ -1,0 +1,3 @@
+[submodule "AndroidHW"]
+	path = AndroidHW
+	url = https://github.com/wydra76yan/AndroidHW.git
